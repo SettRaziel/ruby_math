@@ -1,0 +1,4 @@
+#Gitignore
+dev/
+.yardoc/
+doc/
